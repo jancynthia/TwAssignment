@@ -1,0 +1,8 @@
+/*  
+  To change environment for now. In the future, this file will be the main configuration file.
+  eg. test report path and etc.
+*/
+
+{
+  "environment": "staging"
+}

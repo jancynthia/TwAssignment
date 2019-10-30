@@ -1,0 +1,10 @@
+// To configure the URL of each environment
+{
+  "production": {
+    "homePage": "https://enterprise.taskworld.com"
+  },
+  "staging": {
+    "homePage": "https://enterprise.taskworld.com"
+  }
+
+}

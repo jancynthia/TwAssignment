@@ -1,0 +1,25 @@
+// To configure the account inforamtion
+
+/* "userServer" 
+   North America - 0
+   Asia - 1
+   Europe - 2
+
+   "userAccountType"
+   Valid User - 0
+   Invalid User - 1
+*/
+[
+  {
+    "username": "jan.01.test@gmail.com",
+    "password": "Password",
+    "userServer": 1,
+    "userAccountType": 0
+  },
+  {
+    "username": "test@gmail.com",
+    "password": "Password",
+    "userServer": 0,
+    "userAccountType": 1
+  }
+]
